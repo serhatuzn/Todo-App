@@ -1,8 +1,5 @@
 # React TodoMVC Uygulaması / React TodoMVC Application
 
-## Ekran Görüntüsü / Screenshot
-![Uygulama Ekran Görüntüsü / Application Screenshot](./ss.png)
-
 ## Türkçe
 
 Bu proje, klasik TodoMVC uygulamasının React ile yapılmış bir versiyonudur. Orijinal HTML ve CSS temelli uygulama, modern React bileşenlerine dönüştürülmüştür.
